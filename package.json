@@ -17,7 +17,7 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.4",
-    "react-toastify": "^10.0.5"
+     "react-toastify": "^8.2.0"
   },
   "scripts": {
    
